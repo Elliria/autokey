@@ -22,6 +22,7 @@ Other
 +++++
 - Add `show_recent_script_errors_dialog` to display errors with millisecond precision.
 - Add **Environment** as an issue type in the `bug.yml` file.
+- Fix two out-of-sequence section headers in CHANGELOG.rst to satisfy issue #1027.
 
 Version 0.96.0
 ============================
@@ -46,7 +47,7 @@ Features
 ---------
 
 Scripting API
-^^^^^^^^^^^^^
++++++++++++++
 
 **engine API object**
 
@@ -220,7 +221,7 @@ Features
 ---------
 
 Scripting API
-^^^^^^^^^^^^^
++++++++++++++
 
 **engine API object**
 
